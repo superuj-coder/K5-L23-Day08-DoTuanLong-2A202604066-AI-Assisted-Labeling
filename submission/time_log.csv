@@ -3,3 +3,5 @@ gold_manual,1,2,no
 gold_manual,12,1,no
 gold_manual,20,1,no
 gold_manual,36,1,no
+
+batch_review,24,20,"review 24 ảnh trong CVAT"

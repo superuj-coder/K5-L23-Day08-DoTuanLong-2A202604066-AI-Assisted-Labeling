@@ -1,0 +1,7 @@
+image,object_id,error_type,reviewer,note
+img_003.jpg,1,thua,Do Tuan Long,"QC: phát hiện box thừa"
+img_003.jpg,2,sai_lop,Do Tuan Long,"QC: phát hiện sai lớp"
+img_006.jpg,3,sai_lop,Do Tuan Long,"QC: phát hiện sai lớp"
+img_014.jpg,4,sai_lop,Do Tuan Long,"QC: phát hiện sai lớp"
+img_031.jpg,5,khong,Do Tuan Long,"QC: không phát hiện lỗi"
+img_035.jpg,6,khong,Do Tuan Long,"QC: không phát hiện lỗi"
